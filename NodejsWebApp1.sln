@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWebApp1", "NodejsWebApp1\NodejsWebApp1.njsproj", "{7A2AA934-56A5-4653-A67C-2A11769D45FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frontend", "frontend", "{C4F838E9-AB32-4C18-AFD1-F48750A8B0D3}"
+	ProjectSection(SolutionItems) = preProject
+		NodejsWebApp1\frontend\BMI.html = NodejsWebApp1\frontend\BMI.html
+		NodejsWebApp1\frontend\excaicon.png = NodejsWebApp1\frontend\excaicon.png
+		NodejsWebApp1\frontend\index.html = NodejsWebApp1\frontend\index.html
+		NodejsWebApp1\frontend\saber.html = NodejsWebApp1\frontend\saber.html
+		NodejsWebApp1\frontend\saber.jpg = NodejsWebApp1\frontend\saber.jpg
+		NodejsWebApp1\frontend\sc.js = NodejsWebApp1\frontend\sc.js
+		NodejsWebApp1\frontend\st.css = NodejsWebApp1\frontend\st.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2AA934-56A5-4653-A67C-2A11769D45FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2AA934-56A5-4653-A67C-2A11769D45FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2AA934-56A5-4653-A67C-2A11769D45FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2AA934-56A5-4653-A67C-2A11769D45FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08E13CC3-7D89-460E-AEA8-504A357944EC}
+	EndGlobalSection
+EndGlobal
